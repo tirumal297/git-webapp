@@ -46,7 +46,7 @@
    <artifactId>tomcat7-maven-plugin</artifactId>
    <version>2.2</version>
    <configuration>
-      	 <url>http://98.92.70.71:7777/manager/text</url>
+      	 <url>http://3.235.31.24:7777/manager/text</url>
       	 <server>TomcatServer</server>
       	 <path>/demoapp</path>
    </configuration>
